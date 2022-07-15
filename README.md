@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 
 - 🌱 Estou estudando atualmente na Gama Academy o curso de Desenvolvimento Web (Nanodegree)!
 - 😄 Pronome: ele/dele
-- ⚡ Fun fact: ...
 
 
 <div>
