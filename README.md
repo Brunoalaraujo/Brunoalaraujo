@@ -1,7 +1,7 @@
 # Bem-vindo ao meu GitHub! 👋
 
 ## Sobre Mim
-Olá! Meu nome é Bruno Araújo e sou um entusiasta da tecnologia e desenvolvimento web. Tenho formação em Administração de Empresas, onde adquiri habilidades em gestão e organização. Atualmente, estou cursando Engenharia de Software pela FIAP, buscando ampliar meu conhecimento técnico e aprofundar minha compreensão sobre os princípios de engenharia de software.
+Olá! Meu nome é [Bruno Araújo] e sou um entusiasta da tecnologia e desenvolvimento web. Tenho formação em Administração de Empresas, onde adquiri habilidades em gestão e organização. Atualmente, estou cursando Engenharia de Software pela FIAP, buscando ampliar meu conhecimento técnico e aprofundar minha compreensão sobre os princípios de engenharia de software.
 
 
 ## Experiência e Conhecimento
@@ -18,9 +18,9 @@ Olá! Meu nome é Bruno Araújo e sou um entusiasta da tecnologia e desenvolvime
 
 ### Projetos Front-end
 
-1. [Projeto 1](link-para-o-projeto-1): Breve descrição do projeto 1.
-2. [Pokedex](https://github.com/Brunoalaraujo/pokedex): Consulta a API pública PokéAPI para exibir informações de Pokémon, incluindo nome, ID e gif animado. Desenvolvido em JavaScript com manipulação da DOM.
-3. [YourGame](https://github.com/Brunoalaraujo/clone-netflix-yourgamer): Projeto de clone da Netflix com personalização para uma plataforma de indicações de jogos. Apresenta sinopses, trailers e links de compra na Steam.
+
+1. [Pokedex](https://github.com/Brunoalaraujo/pokedex): Consulta a API pública PokéAPI para exibir informações de Pokémon, incluindo nome, ID e gif animado. Desenvolvido em JavaScript com manipulação da DOM.
+2. [YourGame](https://github.com/Brunoalaraujo/clone-netflix-yourgamer): Projeto de clone da Netflix com personalização para uma plataforma de indicações de jogos. Apresenta sinopses, trailers e links de compra na Steam.
 
 ### Projetos Back-end
 
@@ -41,6 +41,7 @@ Estou constantemente buscando aprimorar minhas habilidades e explorar novas tecn
 Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato comigo. Vamos aprender e crescer juntos!
   
   ##
+
  <div>
    <a href="https://www.linkedin.com/in/brunoandradel-a-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
    <a href="mailto:brunoandradel.a.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -52,6 +53,3 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de ap
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunoalaraujo&show_icons=true&theme=nord"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoalaraujo&layout=compact&theme=nord"/>  
 </div>
-
-
-Em desenvolvimento!
