@@ -1,7 +1,7 @@
 # Bem-vindo ao meu GitHub! 👋
 
 ## Sobre Mim
-Olá! Meu nome é [Bruno Araújo] e sou um entusiasta da tecnologia e desenvolvimento web. Tenho formação em Administração de Empresas, onde adquiri habilidades em gestão e organização. Atualmente, estou cursando Engenharia de Software pela FIAP, buscando ampliar meu conhecimento técnico e aprofundar minha compreensão sobre os princípios de engenharia de software.
+Olá! Meu nome é Bruno Araújo e sou um entusiasta da tecnologia e desenvolvimento web. Tenho formação em Administração de Empresas, onde adquiri habilidades em gestão e organização. Atualmente, estou cursando Engenharia de Software pela FIAP, buscando ampliar meu conhecimento técnico e aprofundar minha compreensão sobre os princípios de engenharia de software.
 
 
 ## Experiência e Conhecimento
