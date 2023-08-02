@@ -18,18 +18,20 @@ Olá! Meu nome é Bruno Araújo e sou um entusiasta da tecnologia e desenvolvime
 
 ### Projetos Front-end
 
+- [Newsletter sign-up](https://github.com/Brunoalaraujo/newsletter-sign-up): O objetivo desse desafio é permitir que os usuários realizassem algumas ações importantes, como adicionar o email e enviar o formulário, e visualizassem mensagens informativas em diferentes situações.
 
-1. [Pokedex](https://github.com/Brunoalaraujo/pokedex): Consulta a API pública PokéAPI para exibir informações de Pokémon, incluindo nome, ID e gif animado. Desenvolvido em JavaScript com manipulação da DOM.
-2. [YourGame](https://github.com/Brunoalaraujo/clone-netflix-yourgamer): Projeto de clone da Netflix com personalização para uma plataforma de indicações de jogos. Apresenta sinopses, trailers e links de compra na Steam.
+- [YourGame](https://github.com/Brunoalaraujo/clone-netflix-yourgamer): Projeto de clone da Netflix com personalização para uma plataforma de indicações de jogos. Apresenta sinopses, trailers e links de compra na Steam.
+
+- [Pokedex](https://github.com/Brunoalaraujo/pokedex): Consulta a API pública PokéAPI para exibir informações de Pokémon, incluindo nome, ID e gif animado. Desenvolvido em JavaScript com manipulação da DOM.
 
 ### Projetos Back-end
 
-1. [Watching the stocks market](https://github.com/Brunoalaraujo/Watching-the-stocks-market): Projeto do Codecademy para praticar consultas em bancos de dados SQLite. O objetivo é coletar dados do mercado de ações e identificar tendências usando consultas básicas e intermediárias.
-2. [Explore a Sample Db](https://github.com/Brunoalaraujo/Explore-a-Sample-Db-Codecademy): Projeto do Codecademy para praticar a manipulação de bancos de dados SQLite. Analisa vendas e serviços de uma loja de música.
+- [Watching the stocks market](https://github.com/Brunoalaraujo/Watching-the-stocks-market): Projeto do Codecademy para praticar consultas em bancos de dados SQLite. O objetivo é coletar dados do mercado de ações e identificar tendências usando consultas básicas e intermediárias.
+- [Explore a Sample Db](https://github.com/Brunoalaraujo/Explore-a-Sample-Db-Codecademy): Projeto do Codecademy para praticar a manipulação de bancos de dados SQLite. Analisa vendas e serviços de uma loja de música.
 
 ### Projetos Diversos
 
-1. [FlappyBird](https://github.com/Brunoalaraujo/Moderno_02_Projeto_FlappyBird): Clone do jogo Flappy Bird.
+- [FlappyBird](https://github.com/Brunoalaraujo/Moderno_02_Projeto_FlappyBird): Clone do jogo Flappy Bird.
 
 ## Estudos Futuros
 
